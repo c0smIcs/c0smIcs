@@ -1,6 +1,4 @@
-## Hi I'm alan 👋
-Junior software engineer
-I am a beginner developer looking for a job
+## Hi I'm Alan 👋
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alan_kemov) 
